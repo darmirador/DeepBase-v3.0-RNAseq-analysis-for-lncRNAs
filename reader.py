@@ -9,6 +9,8 @@ Per-cancer file:  ENSGID-output_NNNN.csv
   - column 3: transcript levels (FPKM)
 
 Summary file:     ENSGID.csv
+
+Sample Input: python3 reader.py ENSG00000226496.2
 """
 
 import os
