@@ -1,3 +1,0 @@
-cancer_type,normal-mean,cancer-mean,n_normal,n-cancer,p-value,significance_level
-LUAD,0.0,0.0,59,535,nan,n/a
-LUSC,0.0,0.0,49,502,nan,n/a
