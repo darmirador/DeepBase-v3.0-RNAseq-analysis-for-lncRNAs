@@ -10,7 +10,7 @@ Per-cancer file:  ENSGID-output_NNNN.csv
 
 Summary file:     ENSGID.csv
 
-Sample Input: python3 reader.py ENSG00000226496.2
+Sample Input: python3 reader.py -i ENSG00000226496.2
 """
 
 import os
